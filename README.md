@@ -15,3 +15,11 @@ NumPy,Keras,Pandas libraries
 Here i have given my trained dataset.You can download it and use with this project.
 
 
+## Graph Between Accuracy and Validation Accuracy
+
+![gf-1](https://user-images.githubusercontent.com/102535438/174627768-b3e80e01-f5ce-46fa-a358-b2df3b13c15e.png)
+
+## Graph Between Loss and Validation Loss
+
+![gf-2](https://user-images.githubusercontent.com/102535438/174628039-2e291539-4e55-4f19-9a60-00cecb457548.png)
+
